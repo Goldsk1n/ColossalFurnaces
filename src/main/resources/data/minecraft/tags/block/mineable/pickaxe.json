@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "colossalfurnaces:colossal_furnace_core",
+    "colossalfurnaces:colossal_furnace_wall",
+    "colossalfurnaces:colossal_furnace_interface",
+    "colossalfurnaces:colossal_smoker_core",
+    "colossalfurnaces:colossal_blast_furnace_core"
+  ]
+}

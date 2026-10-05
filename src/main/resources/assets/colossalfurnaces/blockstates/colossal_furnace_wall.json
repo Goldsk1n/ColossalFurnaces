@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "formed=false,lit=false": {
+      "model": "colossalfurnaces:block/colossal_furnace_wall"
+    },
+    "formed=false,lit=true": {
+      "model": "colossalfurnaces:block/colossal_furnace_wall"
+    },
+    "formed=true,lit=false": {
+      "model": "colossalfurnaces:block/empty_shell"
+    },
+    "formed=true,lit=true": {
+      "model": "colossalfurnaces:block/empty_shell"
+    }
+  }
+}
