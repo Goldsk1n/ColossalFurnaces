@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "colossalfurnaces:item/colossal_furnace_interface"
+  }
+}

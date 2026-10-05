@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " C ",
+    "CSC",
+    " C "
+  ],
+  "key": {
+    "C": "minecraft:cobblestone",
+    "S": "minecraft:smooth_stone"
+  },
+  "result": {
+    "id": "colossalfurnaces:colossal_furnace_wall"
+  }
+}

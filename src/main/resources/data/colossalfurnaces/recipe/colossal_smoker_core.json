@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "colossalfurnaces:colossal_furnace_wall",
+    "minecraft:smoker"
+  ],
+  "result": {
+    "id": "colossalfurnaces:colossal_smoker_core"
+  }
+}

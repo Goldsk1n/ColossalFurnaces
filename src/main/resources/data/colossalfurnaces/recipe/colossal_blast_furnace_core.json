@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "colossalfurnaces:colossal_furnace_wall",
+    "minecraft:blast_furnace"
+  ],
+  "result": {
+    "id": "colossalfurnaces:colossal_blast_furnace_core"
+  }
+}

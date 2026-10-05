@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "colossalfurnaces:colossal_furnace_wall",
+    "minecraft:hopper"
+  ],
+  "result": {
+    "id": "colossalfurnaces:colossal_furnace_interface"
+  }
+}
