@@ -9,7 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ### Added
 
 - Colossal Furnace, Colossal Smoker, and Colossal Blast Furnace multiblocks.
-- Native NeoForge 26.1.2 support using Java 25.
+- Native NeoForge support for Minecraft 26.1, 26.1.1, and 26.1.2 in one JAR using Java 25.
 - Hollow cubic structures from `2x2x2` through `5x5x5`, using one shared Wall, one shared configurable Interface, and a machine-specific Core.
 - Automatic structure formation, validation, disassembly, and inventory preservation through the Core.
 - Enlarged vanilla-style formed models, specialized textures, localized lighting, and working particles for all three machine families.

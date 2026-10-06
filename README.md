@@ -4,9 +4,20 @@ Colossal Furnaces adds scalable, hollow multiblock versions of the vanilla furna
 
 ## Requirements
 
-- Minecraft 26.1.2
-- NeoForge 26.1.2.104 or newer in the 26.1.2 line
+- Minecraft 26.1, 26.1.1, or 26.1.2
+- Java 25
 - No required library mods
+
+Use the matching NeoForge build for your Minecraft version:
+
+| Minecraft | Accepted NeoForge builds |
+| --- | --- |
+| 26.1 | 26.1.0.19-beta |
+| 26.1.1 | 26.1.1.15-beta |
+| 26.1.2 | 26.1.2.104 or newer, below 26.1.3 |
+
+One JAR supports all three targets. Its filename contains `26.1.2` because that
+is the Minecraft version used to compile it, not its only supported version.
 
 ## Machine Types
 
@@ -153,7 +164,7 @@ On Windows:
 gradlew.bat build
 ```
 
-The release JAR is written to `build/libs/colossalfurnaces-neoforge-26.1.2-1.0.0.jar`. Its filename identifies the loader, Minecraft version, and mod version; do not install a different port's JAR.
+The release JAR is written to `build/libs/colossalfurnaces-neoforge-26.1.2-1.0.0.jar`. Its filename identifies the loader, Minecraft compilation target, and mod version. The same JAR supports the three Minecraft versions listed above; do not install a different port's JAR.
 
 For this port's atlas API source-contract check, run:
 
